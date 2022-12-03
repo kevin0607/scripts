@@ -1,0 +1,1 @@
+[{"image":"percona:8.0.28-20","comaster":1,"nodes":3,"monitoring":0,"ssl":0,"vault":0,"lb":0,"fo":0,"binlog":"STATEMENT","gtid":"ON","root_password":"H9eShdIncGsYSVFDEWTG","repl_password":"NcHYSkxYSGncAQo"}]
